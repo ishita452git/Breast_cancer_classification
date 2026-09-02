@@ -1,5 +1,5 @@
 # Breast_cancer_classification
-A machine learning project for classifying breast tumors as benign or malignant using the Breast Cancer Wisconsin dataset
+A machine learning project for classifying breast tumors as benign or malignant using the Breast Cancer Wisconsin dataset. 
 The project implements and compares multiple classification algorithms, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting.
 The workflow covers data preprocessing, feature scaling, model training, evaluation, and model comparison using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix. It also explores ROC curves, cross-validation, hyperparameter tuning, and feature importance to better understand model performance.
 
